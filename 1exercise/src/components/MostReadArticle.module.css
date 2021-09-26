@@ -1,0 +1,18 @@
+.MostReadArticle{
+    width: 480px;
+    margin-left: 100px;
+    padding-top: 40px;
+    border-bottom: 1px solid #d0d0d0;
+}
+
+.ArticleNumber{
+    color: #4196a4;
+    font-size: 36px;
+    font-weight: 900;
+    font-family: Sanomat;
+}
+.ArticleText{
+    font-size: 20px;
+    font-family: Helsingin;
+    font-weight: 400;
+}

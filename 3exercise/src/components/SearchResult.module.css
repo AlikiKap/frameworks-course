@@ -1,0 +1,29 @@
+.name
+{
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  
+}
+.name:hover {
+  color: #C45500;
+}
+.images
+{
+  width:  200px;
+  height: 200px;
+  object-fit: cover;
+}
+.price{
+ align-self: flex-end; 
+ font-weight: 600;
+}
+.product
+{
+  display: flex;
+  width: 30%;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  padding: 70px;
+}

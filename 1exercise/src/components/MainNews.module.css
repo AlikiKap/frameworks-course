@@ -1,0 +1,21 @@
+.MainNewsBox{
+ margin-top: 30px;
+width: 670px;
+margin-left: 120px;
+border-top: 1px solid black;
+}
+.heading1{
+    font-size: 40px;
+    font-family: Sanomat;
+    font-weight: 900;
+}
+
+.imageNews{
+    width: 658;
+    height: 439;
+}
+.NewsText{
+    font-size: 30px;
+    font-family: Sanomat;
+    font-weight: 700;
+}

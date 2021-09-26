@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Zevro Zero Gravity Magnetic Spice Rack with 12 Canisters",
+      "price": 36.77 ,
+      "rating": 3.9 ,
+      "image": "kitchen1.png"
+    },
+    {
+      "id": 2,
+      "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, 6 Quart, Stainless Steel/Black",
+      "price": 89.00 ,
+      "rating": 4.7 ,
+      "image": "kitchen2.png"
+    },
+    {
+      "id": 3,
+      "name": "Hamilton Beach Breakfast Sandwich Maker, Silver (25475A)",
+      "price": 24.99 ,
+      "rating": 4.4 ,
+      "image": "kitchen3.png"
+    },
+
+    {
+      "id": 4,
+      "name": "NutriBullet NBR-1201 12-Piece High-Speed Blender/Mixer System, Gray (600 Watts)",
+      "price": 76.77 ,
+      "rating": 4.6 ,
+      "image": "kitchen4.png"
+    },
+
+    {
+      "id": 5,
+      "name": "Ozeri ZK14-S Pronto Digital Multifunction Kitchen and Food Scale, Black, 8.25",
+      "price": 9.84 ,
+      "rating": 4.7 ,
+      "image": "kitchen5.png"
+    }
+  ]
+}
